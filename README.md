@@ -1,2 +1,2 @@
-# pagina-beta
+# Página beta
 Prueba beta de Github Page.
